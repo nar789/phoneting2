@@ -1,0 +1,4 @@
+#Fri Apr 19 00:37:25 KST 2019
+base.0=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a4\\platforms\\android\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a4\\platforms\\android\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
