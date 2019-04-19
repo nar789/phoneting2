@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Apr 19 00:35:44 KST 2019
+#Fri Apr 19 17:40:45 KST 2019
 25.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-mdpi-v4\\screen.png
 25.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 22.set=ASSET
@@ -45,14 +45,14 @@ count=37
 21.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 20.set=ASSET
 32.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\assets\\release\\www\\js\\index.js
-16.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-land-ldpi-v4\\screen.png
+16.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-hdpi-v4\\screen.png
 32.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\assets\\release
 6.set=ANDROID_RESOURCE
 16.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 36.set=ANDROID_RESOURCE
 8.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-xxhdpi-v4\\icon.png
 8.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
-17.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-hdpi-v4\\screen.png
+17.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-land-ldpi-v4\\screen.png
 25.set=ANDROID_RESOURCE
 17.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 10.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-land-xxxhdpi-v4\\screen.png
@@ -60,7 +60,7 @@ count=37
 10.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 28.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 14.set=ASSET
-2.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-xxxhdpi-v4\\screen.png
+2.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-hdpi-v4\\icon.png
 2.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 22.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\assets\\release\\www\\css\\index.css
 22.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\assets\\release
@@ -80,7 +80,7 @@ count=37
 11.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 29.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 24.set=ANDROID_RESOURCE
-3.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-hdpi-v4\\icon.png
+3.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-xxxhdpi-v4\\screen.png
 3.base=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 13.set=ASSET
 23.file=C\:\\Users\\leejunghun\\gitproject\\phoneting2\\a3\\platforms\\android\\build\\intermediates\\assets\\release\\www\\cordova-js-src\\platform.js
