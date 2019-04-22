@@ -13,7 +13,6 @@
     "com.borismus.webintent": "https://github.com/cordova-misc/cordova-webintent.git",
     "cordova": "^7.0.1",
     "cordova-android": "^6.2.3",
-    "cordova-plugin-splashscreen": "^4.0.3",
     "cordova-plugin-statusbar": "^2.2.3",
     "cordova-plugin-whitelist": "^1.3.2",
     "cordova-webintent": "git+https://github.com/cordova-misc/cordova-webintent.git"
@@ -23,7 +22,6 @@
       "cordova-plugin-whitelist": {},
       "WebIntent": {},
       "com.borismus.webintent": {},
-      "cordova-plugin-splashscreen": {},
       "cordova-plugin-statusbar": {}
     },
     "platforms": [

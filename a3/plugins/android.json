@@ -1,24 +1,21 @@
 {
-    "prepare_queue": {
-        "installed": [],
-        "uninstalled": []
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
     },
-    "config_munge": {
-        "files": {}
+    "com.borismus.webintent": {
+      "PACKAGE_NAME": "com.hume.adultcall"
     },
-    "installed_plugins": {
-        "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "io.cordova.hellocordova"
-        },
-        "com.borismus.webintent": {
-            "PACKAGE_NAME": "com.hume.adultcall"
-        },
-        "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "com.hume.adultcall"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.hume.adultcall"
-        }
-    },
-    "dependent_plugins": {}
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.hume.adultcall"
+    }
+  },
+  "dependent_plugins": {}
 }

@@ -8,6 +8,10 @@
         "source": "C:\\Users\\leejunghun\\gitproject\\phoneting\\4\\platforms\\android\\res\\mipmap-hdpi\\icon.png"
     },
     {
+        "merged": "C:\\Users\\leejunghun\\gitproject\\phoneting2\\a2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon.png",
+        "source": "C:\\Users\\leejunghun\\gitproject\\phoneting2\\a2\\platforms\\android\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
         "merged": "C:\\Users\\leejunghun\\gitproject\\phoneting\\phoneting-native\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon.png",
         "source": "C:\\Users\\leejunghun\\gitproject\\phoneting\\phoneting-native\\platforms\\android\\res\\mipmap-hdpi\\icon.png"
     },
