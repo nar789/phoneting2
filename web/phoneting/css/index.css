@@ -1,0 +1,75 @@
+@font-face{
+  font-family:'yanolja';
+  src:url('야놀자 야체 Bold.ttf') format('truetype');
+}
+body{
+  overflow: hidden;
+  margin:0px;padding: 0px;
+}
+#contents{
+  height: 80%;
+  overflow: scroll;
+}
+#logo{
+  height: 30%;
+  margin-top:7%;
+}
+.top{
+  width: 100%;
+  height: 10%;
+  text-align: center;
+  font-size: 74px;
+  font-family:'yanolja',sans-serif;
+  background-color:#ffffff;
+  border-bottom: 1px solid gray;
+}
+.adimg{
+  width: 100%;
+  height: 100%;
+}
+#ad{
+  position: absolute;
+  bottom: 0px;
+  width:100%;
+  height:10%;
+  background-color: gray;
+}
+.line{  
+  position: relative;
+  margin:0px;
+  padding: 30px;
+  border-bottom: 1px solid gray;
+}
+.pf{
+  display: inline-block;
+  width:200px;
+  height:200px;
+  border-radius: 20px;
+  vertical-align: top;
+  margin-right: 30px;
+}
+.btn{
+  position: absolute;
+  right: 30px;
+  width: 170px;
+  margin-top: 15px;
+}
+.linetitle{
+  font-weight: bold;
+  width: 500px;
+  display: block;
+  font-size: 35px;
+  margin-bottom: 10px;
+}
+.linetext{
+  width: 500px;
+  display: block;
+  font-size: 30px;
+  color:gray;
+}
+.text{
+  width: 500px;
+  height: 200px;
+  display: inline-block;
+  vertical-align: top;
+}
